@@ -4,16 +4,12 @@ Test en ligne de fin de formation interne **EduOS Africa Academy** (IT Forces Pa
 
 ## 👉 Passer le test
 
-**https://eduos-africa-academy.abacusai.app**
+**https://vamiridaai.github.io/eduos-africa-academy/**
 
 - 20 questions à choix unique
 - Résultat affiché automatiquement après la soumission
 - Seuil de réussite : **15/20**
 - 3 tentatives au maximum ; la meilleure note est retenue
-
-## Espace formateur
-
-https://eduos-africa-academy.abacusai.app/formateur (accès réservé, avec mot de passe)
 
 ---
 © IT Forces Panafricaines – EduOS Africa
